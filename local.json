@@ -1,0 +1,125 @@
+{
+   "response_code": 0,
+   "results": [
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Science: Computers",
+         "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+         "correct_answer": "Hexidecimal",
+         "incorrect_answers": [
+            "Binary",
+            "Duodecimal",
+            "Octal"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Science: Computers",
+         "question": "What does LTS stand for in the software market?",
+         "correct_answer": "Long Term Support",
+         "incorrect_answers": [
+            "Long Taco Service",
+            "Ludicrous Transfer Speed",
+            "Ludicrous Turbo Speed"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "medium",
+         "category": "Science: Computers",
+         "question": "What does the term GPU stand for?",
+         "correct_answer": "Graphics Processing Unit",
+         "incorrect_answers": [
+            "Gaming Processor Unit",
+            "Graphite Producing Unit",
+            "Graphical Proprietary Unit"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "medium",
+         "category": "Science: Computers",
+         "question": "Nvidia&#039;s headquarters are based in which Silicon Valley city?",
+         "correct_answer": "Santa Clara",
+         "incorrect_answers": [
+            "Palo Alto",
+            "Cupertino",
+            "Mountain View"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "medium",
+         "category": "Science: Computers",
+         "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+         "correct_answer": "Midnight, January 1, 1970",
+         "incorrect_answers": [
+            "Midnight, July 4, 1976",
+            "Midnight on the creator of Unix&#039;s birthday",
+            "Midnight, July 4, 1980"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "medium",
+         "category": "Science: Computers",
+         "question": "In CSS, which of these values CANNOT be used with the &quot;position&quot; property?",
+         "correct_answer": "center",
+         "incorrect_answers": [
+            "static",
+            "absolute",
+            "relative"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "hard",
+         "category": "Science: Computers",
+         "question": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+         "correct_answer": "Quantum Teleportation",
+         "incorrect_answers": [
+            "Super Dense Coding",
+            "Quantum Entanglement",
+            "Quantum Programming"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "medium",
+         "category": "Science: Computers",
+         "question": "What does AD stand for in relation to Windows Operating Systems? ",
+         "correct_answer": "Active Directory",
+         "incorrect_answers": [
+            "Alternative Drive",
+            "Automated Database",
+            "Active Department"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "hard",
+         "category": "Science: Computers",
+         "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+         "correct_answer": "Heartbleed",
+         "incorrect_answers": [
+            "Shellshock",
+            "Corrupted Blood",
+            "Shellscript"
+         ]
+      },
+      {
+         "type": "multiple",
+         "difficulty": "easy",
+         "category": "Science: Computers",
+         "question": "On Twitter, what was the original character limit for a Tweet?",
+         "correct_answer": "140",
+         "incorrect_answers": [
+            "120",
+            "160",
+            "100"
+         ]
+      }
+   ]
+}
