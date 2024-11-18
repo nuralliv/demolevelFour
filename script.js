@@ -15,7 +15,7 @@ async function fetchQuizQuestions() {
       const response = await fetch("https://opentdb.com/api.php?amount=10&category=18&type=multiple");
       const data = await response.json();
       if (!response.ok) {
-         throw new Error('Could not fetch', response.status);
+         throw new Error('Could not fetching', response.status);
       }
       return data.results;
    } catch (error) {
@@ -47,7 +47,6 @@ function renderQuestion(questionData, questionIndex, totalQuestions) {
    });
 }
 
-// Проверка ответа
 function checkAnswer(selected, correctAnswer, currentIndex, totalQuestions) {
    if (selected === correctAnswer) {
       alert("Correct!");
@@ -68,7 +67,6 @@ function displayFinalMessage() {
    choicesContainer.innerHTML = "";
 }
 
-// Начало квиза
 let quizQuestions = [];
 let score = 0;
 
